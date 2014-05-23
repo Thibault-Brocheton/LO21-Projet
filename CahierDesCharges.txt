@@ -1,0 +1,35 @@
+Gestion d'UV:
+- Visualiser les UV existantes
+- Edition d'une UV
+- Ajout d'une UV
+- Destruction d'une UV
+
+Gestion des cursus:
+- Visualiser les cursus
+- Edition d'un cursus
+- Ajouter un cursus
+- Supprimer un cursus
+
+Dossier d'un étudiant
+- Création du dossier d'un étudiant:
+	* Choix du/des cursus de formation
+	* Liste des UV finies et en cours + résultats
+	* Equivalences de Crédits obtenus
+	* ...
+- Enregistrement du dossier
+- Modification ultérieure
+
+Auto-complétion du profil:
+- Définition des conditions:
+	* Exclusion/Demande d'UVS
+	//Préférences d'UV
+	//Prévision des semestres à l'étranger
+- Premier Calcul:
+	* Figer des UV
+	* Supprimer des UV
+	//Changer l'ordre de préférence
+	* Relancer la recherche avec les nouveaux paramètres
+	* Enregistrer la recherche (statut en cours)
+	* Valider la recherche (enregistrement avec statut validée)
+
+/*Sinon Nouveaux calculs jusqu'à validation*/

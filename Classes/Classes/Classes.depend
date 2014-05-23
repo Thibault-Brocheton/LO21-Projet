@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1400838944 source:d:\creations\dev\projetlo21\classes\classes\cursus.cpp
+	"includes.h"
+
+1400839391 source:d:\creations\dev\projetlo21\classes\classes\main.cpp
+	"includes.h"
+
+1400838482 d:\creations\dev\projetlo21\classes\classes\includes.h
+	<iostream>
+	<string>
+	<map>
+	"enum.h"
+	"Cursus.h"
+	"UV.h"
+	"UVManager.h"
+
+1400838031 d:\creations\dev\projetlo21\classes\classes\enum.h
+
+1400838944 d:\creations\dev\projetlo21\classes\classes\cursus.h
+	"includes.h"
+
+1400839090 d:\creations\dev\projetlo21\classes\classes\uv.h
+	"includes.h"
+
+1400839383 d:\creations\dev\projetlo21\classes\classes\uvmanager.h
+	"includes.h"
+
+1400839070 source:d:\creations\dev\projetlo21\classes\classes\uv.cpp
+	"includes.h"
+
+1400839101 source:d:\creations\dev\projetlo21\classes\classes\uvmanager.cpp
+	"includes.h"
+
